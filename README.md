@@ -1,3 +1,3 @@
 # Scaler Academy
 
-This file contains the code exercises comleted for scaler
+This file contains the code exercises completed for scaler
